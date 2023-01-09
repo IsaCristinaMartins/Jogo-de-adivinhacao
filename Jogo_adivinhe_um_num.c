@@ -7,7 +7,7 @@ int main () {
     // imprime cabeçalho do jogo
     printf ("**********************\n");
     printf("\nBem vindo ao nosso jogo de adivinhação\n");
-    printf ("\n**********************\n");
+    printf ("\n***********************\n");
 
      
 
